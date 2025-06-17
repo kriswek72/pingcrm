@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Models",
+    "\\resources\\css",
+    "\\resources\\js",
+    "\\vendor\\inertiajs\\inertia-laravel"
+  ],
+  "SelectedNode": "\\app\\Models\\Contact.php",
+  "PreviewInSolutionExplorer": false
+}
